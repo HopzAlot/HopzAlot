@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rehan Saqib</h1>
 <h3 align="center">A Passionate Backend Developer with a keen interest in DevOps Culture.</h3>
 
-- 🔭 I’m currently working on [Synthron](https://github.com/HopzAlot/Synthron)
+- 🔭 I’m currently working on
+  <!--[Synthron](https://github.com/HopzAlot/Synthron) -- >
 
 - 🌱 I’m currently learning **Django, RESTful APIs, Docker, AWS, Kubernetes, Linux, Jenkins**
 
